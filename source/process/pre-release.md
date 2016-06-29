@@ -16,7 +16,11 @@ Once activated you should see additional options in the System Console and the "
 
 #### Setting up Active Directory/LDAP
 
-Instructions for setting up LDAP/AD SSO are available in the [deployment guide.](http://docs.mattermost.com/deployment/sso-ldap.html)
+Instructions for setting up LDAP/AD SSO are available in the [LDAP deployment guide.](http://docs.mattermost.com/deployment/sso-ldap.html)
+
+#### Setting up SAML Single-Sign-On (SSO)
+
+Instructions for setting up SAML SSO are available in the [SAML deployment guide.](http://docs.mattermost.com/deployment/sso-saml.html)
 
 #### Downgrading from Enterprise Edition to Team Edition 
 
